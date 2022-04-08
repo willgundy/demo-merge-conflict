@@ -1,3 +1,1 @@
-## The Golden Rule:
-
-🦸 🦸‍♂️
+Initial commit for demoing merge conflicts
